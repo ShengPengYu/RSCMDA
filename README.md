@@ -10,6 +10,9 @@ With the rapid development of biotechnology and computer technology, increasing 
 (3). As GitHub has upload capacity limit, I did not upload the third party jar package, only uploaded the core code of the project.
 
 #3. Usage:
+
 To run our method, simply open the "E_PREDICT.m" script in matlab environment.
+
 #4. Contact:
+
 For any questions regarding our work, please feel free to contact us: sdnuysp@163.com
